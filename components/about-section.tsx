@@ -72,7 +72,7 @@ export function AboutSection() {
 
             <div className="space-y-6 text-muted-foreground leading-relaxed">
               <p className="text-pretty">
-                With over a decade of experience, Gafia Graphics has established
+                With over a 5 Years of experience, Gafia Graphics has established
                 a reputation for creating compelling visual narratives that
                 transcend the ordinary. Every photograph is an opportunity to
                 capture the essence of a moment, a feeling, a story waiting to
@@ -85,7 +85,7 @@ export function AboutSection() {
                 storytelling.
               </p>
               <p className="text-pretty">
-                Based in New York but available worldwide, Gafia Graphics brings
+                Based in Norton Zimbabwe but available worldwide, Gafia Graphics brings
                 a unique perspective to every project, combining technical
                 mastery with an intuitive eye for beauty and emotion.
               </p>
